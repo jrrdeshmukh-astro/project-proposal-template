@@ -1,5 +1,3 @@
-# project-proposal-template
-
 # Freelance Project Proposal
 
 **Your Name/Company:** [Your Name/Company]
